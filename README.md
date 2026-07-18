@@ -1,3 +1,12 @@
+# 👋 Hi, I'm Abdul Wahab
+
+Welcome to my GitHub profile!
+
+I'm a **Full Stack Web Developer** with a passion for creating modern, responsive, and user-focused web applications. Alongside my journey as a **BSCS student at the University of Central Punjab (UCP)**, I enjoy transforming ideas into practical and efficient digital solutions.
+
+During my **Web Development Internship at Nexus Future**, I gained hands-on experience with modern web technologies, improved my development workflow, and worked on projects that strengthened both my technical and collaborative skills.
+
+I'm continuously learning new technologies, building real-world applications, and exploring best practices in software development to grow as a professional developer.
 ## 🚀 About Me
 
 - 💻 Full Stack Web Developer passionate about building responsive and user-friendly web applications.
