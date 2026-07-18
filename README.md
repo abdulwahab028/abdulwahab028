@@ -43,6 +43,13 @@ I'm continuously learning new technologies, building real-world applications, an
 - 💼 Internship Work
 - 🚀 Open Source Contributions (Coming Soon)
 ---
+
+## 🎯 My Goal
+
+My mission is to become a proficient **Full Stack Web Developer** by continuously learning modern technologies, building scalable and user-focused applications, and contributing to the developer community through open-source collaboration.
+
+⭐ Thank you for visiting my GitHub profile. I appreciate your time—feel free to explore my projects, share your feedback, and follow my journey as I continue to learn and build.
+
 [![](https://komarev.com/ghpvc/?username=abdulwahab028&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
