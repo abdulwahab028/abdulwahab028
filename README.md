@@ -1,18 +1,11 @@
 ## 🚀 About Me
-💻 I'm a **Full Stack Web Developer** passionate about building modern, responsive, and user-friendly web applications.
 
-🎓 I'm currently pursuing a **Bachelor of Science in Computer Science (BSCS)** at the **University of Central Punjab (UCP)**.
-
-💼 I completed a **Web Development Internship at Nexus Future**, where I gained hands-on experience in **HTML, CSS, JavaScript, responsive web design, Git, GitHub, and modern web development practices**.
-
-🌱 I'm currently expanding my skills in **React.js, Node.js, Express.js, MongoDB, Next.js, and TypeScript** to become a proficient MERN Stack Developer.
-
-🤝 I'm open to collaborating on **Full Stack Web Development, Open Source, and MERN Stack projects**.
-
-💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Git, GitHub, WordPress, and SEO**.
-
-⚡ I enjoy solving real-world problems through code and continuously learning new technologies to build better digital experiences.
-
+- 💻 Full Stack Web Developer passionate about building responsive and user-friendly web applications.
+- 🎓 Currently pursuing a **Bachelor of Science in Computer Science (BSCS)** at the **University of Central Punjab (UCP)**.
+- 💼 Completed a **Web Development Internship** at **Nexus Future**, gaining hands-on experience in modern web development.
+- 🌱 Continuously learning and improving my skills in **React.js, Node.js, Express.js, MongoDB, and Next.js**.
+- 🤝 Open to collaborating on **Full Stack Web Development** and **Open Source** projects.
+- ⚡ Committed to writing clean, maintainable code and continuously expanding my technical expertise.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100086017480036) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abwahab2677) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-wahab-923b93421) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hadi899vbg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aw419770@gmail.com) 
 
